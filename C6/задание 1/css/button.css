@@ -1,0 +1,14 @@
+.btn {
+    display: flex;
+    font-size: 20px;
+    border-radius: 5px;
+    border: none;
+    width: 120px;
+}
+.btn__svg {
+    display: none;
+    margin-left: 20px;
+}
+.btn__svg2 {
+    margin-left: 20px;
+}
